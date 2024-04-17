@@ -4,7 +4,7 @@ EDA: https://github.com/mHienp/preprocessing-actions/pull/7
 
 --
 
-NPB animation:
+NBP animation:
 
 
 
