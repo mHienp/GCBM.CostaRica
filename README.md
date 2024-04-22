@@ -4,7 +4,13 @@ EDA: https://github.com/mHienp/preprocessing-actions/pull/7
 
 --
 
-NBP animation:
+Forest cover:
+![hansen](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/fcb1ac8b-8638-4876-b1ab-b0d1d80741eb)
+
+--
+
+NBP animation (POC):
+
 
 
 
