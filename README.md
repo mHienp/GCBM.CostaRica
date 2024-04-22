@@ -9,7 +9,7 @@ Forest cover:
 
 --
 
-NBP animation (whole area, not yet for forest cover):
+NBP animation (PoC, whole area, not yet for forest cover):
 
 
 
