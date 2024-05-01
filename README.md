@@ -6,6 +6,8 @@ EDA: https://github.com/mHienp/preprocessing-actions/pull/7
 
 NBP animation (PoC, whole area)
 
+The colorscale is uniform across all years in an animation. The pair of tick marks represent the min-max range of the particular year on display. The range is moving up the scale each year for NBP, showing that NBP is increasing across the areas.
+
 https://github.com/mHienp/GCBM.CostaRica/assets/106609690/c2dde64c-1d02-4e18-b44d-f2f1e03aba9b
 
 Total Biomass animation
