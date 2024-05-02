@@ -20,6 +20,10 @@ https://github.com/mHienp/GCBM.CostaRica/assets/106609690/965fd2fa-b386-47c7-943
 
 --
 
+**Carbon stocks in Holdridge zones**
+
+![cstocks](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/d45abf80-ce1f-408a-8426-94acfd0606c4)
+
 **Forest cover**
 
 ![hansen](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/fcb1ac8b-8638-4876-b1ab-b0d1d80741eb)
@@ -27,8 +31,3 @@ https://github.com/mHienp/GCBM.CostaRica/assets/106609690/965fd2fa-b386-47c7-943
 **Forest cover overlayed with Holdridge life zones**
 
 ![forestcover](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/d84ce5a4-8ff0-48b0-be83-7744ef524f58)
-
-**Carbon stocks in Holdridge zones**
-
-![cstocks](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/d45abf80-ce1f-408a-8426-94acfd0606c4)
-
