@@ -22,7 +22,7 @@ https://github.com/mHienp/GCBM.CostaRica/assets/106609690/965fd2fa-b386-47c7-943
 
 **Carbon stocks in Holdridge zones**
 
-![cstocks](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/d45abf80-ce1f-408a-8426-94acfd0606c4)
+![cstocks](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/e2f662bd-d507-4c66-ae54-6177798ed31b)
 
 **Forest cover**
 
