@@ -16,7 +16,7 @@ https://github.com/mHienp/GCBM.CostaRica/assets/106609690/257fc6be-416d-418c-bdd
 
 **Total Emissions animation**
 
-https://github.com/mHienp/GCBM.CostaRica/assets/106609690/13047aa6-16d4-497f-94dc-2c6d29e1d540
+https://github.com/mHienp/GCBM.CostaRica/assets/106609690/fb6508f6-7026-4251-a81b-4676ad3b703d
 
 --
 
