@@ -17,9 +17,3 @@ https://github.com/mHienp/GCBM.CostaRica/assets/106609690/257fc6be-416d-418c-bdd
 **Total Emissions animation**
 
 https://github.com/mHienp/GCBM.CostaRica/assets/106609690/fb6508f6-7026-4251-a81b-4676ad3b703d
-
---
-
-**Forest cover**
-
-![hansen](https://github.com/mHienp/GCBM.CostaRica/assets/106609690/fcb1ac8b-8638-4876-b1ab-b0d1d80741eb)
