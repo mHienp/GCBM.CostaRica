@@ -10,9 +10,9 @@ The colorscale is uniform across all years in an animation. The pair of tick mar
 
 https://github.com/mHienp/GCBM.CostaRica/assets/106609690/9cdbd809-8ced-44ac-b866-26348cf83531
 
-**Total Biomass animation**
+**Total Ecosystem C animation**
 
-https://github.com/mHienp/GCBM.CostaRica/assets/106609690/2c46e7cc-2146-4d6c-b7f7-3b236a879c9b
+https://github.com/mHienp/GCBM.CostaRica/assets/106609690/4476e267-1c30-4a05-8155-94ee1c277377
 
 **Total Emissions animation**
 
